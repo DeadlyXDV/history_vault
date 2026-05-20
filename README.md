@@ -1,25 +1,25 @@
-# 📚 History Vault
+# History Vault
 
 Aplikasi mobile yang memungkinkan pengguna menjelajahi peristiwa sejarah dari seluruh dunia dengan antarmuka modern dan intuitif.
 
 ---
 
-## 🎯 Deskripsi Aplikasi
+## Deskripsi Aplikasi
 
 **History Vault** adalah aplikasi Flutter yang dirancang untuk memberikan pengalaman belajar sejarah yang menyenangkan dan interaktif. Aplikasi ini mengintegrasikan data dari Wikipedia API untuk menyediakan informasi sejarah yang akurat dan terkini. Dengan desain UI modern dan minimalis, pengguna dapat dengan mudah menemukan, membaca, dan menyimpan artikel sejarah yang menarik.
 
 ### Fitur Utama:
-- ✨ **Hari Ini dalam Sejarah**: Tampilkan peristiwa sejarah yang terjadi pada hari ini
-- 🎲 **Artikel Acak**: Jelajahi artikel Wikipedia secara acak dengan sekali klik
-- 🔍 **Pencarian Canggih**: Cari artikel sejarah berdasarkan kata kunci
-- 📅 **Timeline Explorer**: Jelajahi peristiwa sejarah berdasarkan tahun
-- ⭐ **Favorit**: Simpan artikel favorit untuk dibaca kemudian
-- 🏷️ **Filter Kategori**: Filter peristiwa berdasarkan kategori (Tempat, Orang, Penemuan, Peristiwa)
-- 📱 **Desain Responsif**: Interface yang indah dan user-friendly di semua ukuran layar
+- **Hari Ini dalam Sejarah**: Tampilkan peristiwa sejarah yang terjadi pada hari ini
+- **Artikel Acak**: Jelajahi artikel Wikipedia secara acak dengan sekali klik
+- **Pencarian Canggih**: Cari artikel sejarah berdasarkan kata kunci
+- **Timeline Explorer**: Jelajahi peristiwa sejarah berdasarkan tahun
+- **Favorit**: Simpan artikel favorit untuk dibaca kemudian
+- **Filter Kategori**: Filter peristiwa berdasarkan kategori (Tempat, Orang, Penemuan, Peristiwa)
+- **Desain Responsif**: Interface yang indah dan user-friendly di semua ukuran layar
 
 ---
 
-## 🔄 Alur Pengguna (User Flow)
+## Alur Pengguna (User Flow)
 
 ### 1. **Onboarding & Home Screen**
 ```
@@ -147,7 +147,7 @@ User Tap "Favorites" Tab
 
 ---
 
-## 🛠️ Cara Kerja Teknis
+## Cara Kerja Teknis
 
 ### Arsitektur Aplikasi
 
@@ -262,7 +262,7 @@ SearchResultModel {
 
 ---
 
-## 📱 Desain & UI/UX
+## Desain & UI/UX
 
 ### Tema Warna
 - **Primary**: #1F2937 (Charcoal Gelap) - Warna utama
@@ -284,7 +284,7 @@ SearchResultModel {
 
 ---
 
-## 🚀 Cara Menggunakan
+## Cara Menggunakan
 
 ### Setup Awal
 
@@ -349,7 +349,7 @@ flutter run
 
 ---
 
-## 🔧 Teknologi & Dependencies
+## Teknologi & Dependencies
 
 ```yaml
 Core:
@@ -368,24 +368,24 @@ Packages:
 
 ---
 
-## 🎨 Fitur Desain & UX
+## Fitur Desain & UX
 
 ### Animasi & Interaksi
-- ✨ Fade-in animations pada card loading
-- 🎯 Smooth transitions antar screen
-- 🖱️ Hover effects pada desktop/tablet
-- ⚡ Loading indicators untuk async operations
-- 🎪 Empty states dengan messaging yang jelas
+- Fade-in animations pada card loading
+- Smooth transitions antar screen
+- Hover effects pada desktop/tablet
+- Loading indicators untuk async operations
+- Empty states dengan messaging yang jelas
 
 ### Responsivitas
-- 📱 Optimized untuk smartphone
-- 📲 Supported untuk tablet
-- 🖥️ Desktop layout (web platform)
-- 🔄 Adaptive UI elements
+- Optimized untuk smartphone
+- Supported untuk tablet
+- Desktop layout (web platform)
+- Adaptive UI elements
 
 ---
 
-## 📊 Data Flow
+## Data Flow
 
 ```
 User Input (Button/Tap)
@@ -409,7 +409,7 @@ UI Update Ditampilkan
 
 ---
 
-## 🐛 Handling Error
+## Handling Error
 
 Aplikasi menangani berbagai error scenario:
 - **Network Error**: Pesan user-friendly, retry option
@@ -419,7 +419,7 @@ Aplikasi menangani berbagai error scenario:
 
 ---
 
-## 📝 Catatan Pengembang
+## Catatan Pengembang
 
 - Semua API calls menggunakan Wikipedia Public API (bebas)
 - Data di-cache locally menggunakan `cached_network_image`
@@ -429,22 +429,22 @@ Aplikasi menangani berbagai error scenario:
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 
 Proyek ini open source dan dapat digunakan sesuai kebutuhan.
 
 ---
 
-## 👨‍💻 Kontribusi
+## Kontribusi
 
 Kontribusi sangat diterima! Silakan buat issue atau pull request untuk perbaikan dan fitur baru.
 
 ---
 
-## 📧 Kontak & Support
+## Kontak & Support
 
 Untuk pertanyaan atau laporan bug, silakan hubungi melalui issue tracker di repository.
 
 ---
 
-**Happy Learning History! 📚✨**
+**Happy Learning History!**
